@@ -70,6 +70,6 @@ Steps neccesary for the analysis:
 - Women represent 64% of sales, indicating a strong target market for personalized marketing and product offerings.
 - Vrinda Store maintains high delivery success rates, suggesting customer satisfaction and operational efficiency.
 - March is the peak sales month, highlighting the need for strategic inventory management to meet seasonal demand.
-- Andhra Pradesh leads in sales, followed by Delhi, Haryana, Karnataka, and Kerala. Regional marketing diversification may be beneficial.
+- Maharashtra leads in sales, followed by Delhi, Haryana, Karnataka, and Kerala. Regional marketing diversification may be beneficial.
 - Amazon, Myntra, and Flipkart are the primary sales channels, emphasizing the importance of e-commerce partnerships.
 - Young adults (18-24) dominate online shopping, while senior citizens remain an untapped market. Targeting strategies could address this gap.
